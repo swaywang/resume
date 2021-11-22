@@ -1,19 +1,17 @@
-9+ years hands-on experience on software development. Excellent performance tuning and debugging skills. In previous roles, using Python, C/C++ and C# to develop automation testing and debugging tools. Currently working as a data engineer to build ETL pipelines for ML projects. 
+10+ years hands-on experience in Python and C/C++ software development, including web applications(backend) and desktop apps on both Windows and Linux platform. A performance tuning and debugging expert. 
 
 Specialties:
-* 9+ years of experience in softwares development (Synopsys Verdi, Zebu and VCS)
-* 9+ years hands-on experience in performance tuning
-* 5+ years of experience in embedded programming﻿﻿
-* 2+ years of experience in ML and data engineering 
-* Software architecture and design (OOP, OOD, Design Pattern)
-* Software development (C/C++, Python, C#)
-* Software engineering, Agile software development
-* Firmware development (USB, SPI, I2C, UART, EEPROM, external Flash, Touch Controller)
-* Embedded system (ARM, 8051, ARC and Andes)
+* 10+ years of experience in softwares development (Python, C/C++, C#)
+* 5+ years of experience in embedded software and firmware development
+* Doing performance tuning and debugging in industry-scale softwares
+* Designing and maintaining large-scale test automation framework
+* Designing large-scale software architecture using OOD and Design Pattern
+* Designing data intensive applications
+* Building big data pipelines on cloud platforms (AWS, GCP)
 
 Selected Projects:
 * EcoDB: A lightweight debugging tool for resource constrained wireless sensor platforms (C and Python)
-* Scalable fault injection tools to testing (Python)
+* Scalable fault injection tools and data pipelines for testing industry-scale softwares (Python)
 * Home automation controllers including both hardware and software development (C, Objective-C, C# and Python) (https://www.youtube.com/watch?v=xZ6U7wssu6w)
-* PDML(UPF) parser (C++) (LoC 100K+)
+* Domain specific language parser (C++ and Python) (LoC 500K+)
 * Testing tools for chip manufacturing and chips (Python and C#) (LoC 50K+)
